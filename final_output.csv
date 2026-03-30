@@ -1,0 +1,232 @@
+Software,unique_users,Source,Category
+AADReporting,6,SSO,Internal Applications
+ADIbizaUX,22,SSO,Internal Applications
+Accounts Control UI,4,SSO,Internal Applications
+App Home Pages Prod,1,SSO,Internal Applications
+App Service,67,SSO,Azure Services
+Asana,1,Email,Collaboration & Productivity (SaaS)
+Augmentation Loop,192,SSO,Internal Applications
+Azure AI Studio App,1,SSO,Azure Services
+Azure API Connections,2,SSO,Internal Applications
+Azure Artifacts,4,SSO,Internal Applications
+Azure DevOps,80,SSO,Azure Services
+Azure Kubernetes Service AAD Client,5,SSO,Internal Applications
+Azure Machine Learning Services,1,SSO,Internal Applications
+Azure Managed Grafana,1,SSO,Internal Applications
+Azure Portal,41,SSO,Azure Services
+Azure Portal Fx Copilot Web,2,SSO,Internal Applications
+Azure SQL Database and Data Warehouse,2,SSO,Azure Services
+Azure Virtual Desktop,1,SSO,Internal Applications
+Azure Virtual Desktop Client,7,SSO,Azure Services
+AzureCopilotServiceProd,1,SSO,Internal Applications
+AzurePortal Console App,1,SSO,Internal Applications
+BDO Global Portal PRD-NAM,1,SSO,Internal Applications
+Bing,1,SSO,Collaboration & Productivity (SaaS)
+Bob,1,SSO,Internal Applications
+Box,1,SSO,Internal Applications
+Calendly,2,SSO,Internal Applications
+Call Recorder,24,SSO,Internal Applications
+Cascade Authentication,4,SSO,Internal Applications
+Connectors,41,SSO,Internal Applications
+Conversation Transcription services for Office,24,SSO,Internal Applications
+Copilot App,1,SSO,Internal Applications
+Cronofy,5,SSO,Internal Applications
+Device Management Client,156,SSO,Internal Applications
+Dime Client,1,SSO,Internal Applications
+Docusign,2,Email,Collaboration & Productivity (SaaS)
+Drift,7,SSO,Collaboration & Productivity (SaaS)
+Dropbox,1,Email,Collaboration & Productivity (SaaS)
+Dynamics 365 Viva Sales,23,SSO,Internal Applications
+EU,1,SSO,Internal Applications
+Enterprise Dashboard Project,97,SSO,Internal Applications
+Entra-Copilot-UX,1,SSO,Internal Applications
+FXIrisClient,110,SSO,Internal Applications
+Gainsight,5,SSO,Other SaaS / Business Apps
+Get My Developer Entitlements,14,SSO,Internal Applications
+Gitlab,1,Email,Collaboration & Productivity (SaaS)
+Gmail,4,SSO,Internal Applications
+Graph Explorer,1,SSO,Developer Tools
+Graph Files Manager,111,SSO,Internal Applications
+Highspot for OneDrive and Sharepoint Online,17,SSO,Internal Applications
+Hubspot,1,Email,Collaboration & Productivity (SaaS)
+Langdock,19,SSO,Collaboration & Productivity (SaaS)
+LastPass,3,SSO,Security & Identity
+M365 Admin Services,1,SSO,Internal Applications
+M365ChatClient,158,SSO,Internal Applications
+MS Form Excel Data Sync for SDX,1,SSO,Internal Applications
+MS-PIM,4,SSO,Internal Applications
+Mailshake,2,SSO,Internal Applications
+Marketplace Leads PROD,1,SSO,Internal Applications
+Metallic Backup App for Teams,1,SSO,Internal Applications
+Micorsoft Azure AppInsightsExtension,12,SSO,Developer Tools
+Microsoft 365 App Catalog Services,226,SSO,Internal Applications
+Microsoft 365 App Catalog Services GCC,2,SSO,Internal Applications
+Microsoft 365 Copilot,18,SSO,Internal Applications
+Microsoft 365 Security and Compliance Center,3,SSO,Microsoft Core Services
+Microsoft 365 Support Service,3,SSO,Microsoft Core Services
+Microsoft Account Controls V2,7,SSO,Security & Identity
+Microsoft App Access Panel,4,SSO,Internal Applications
+Microsoft Application Command Service,162,SSO,Internal Applications
+Microsoft Authentication Broker,223,SSO,Security & Identity
+Microsoft Authenticator App,10,SSO,Internal Applications
+Microsoft Azure App Service,1,SSO,Azure Services
+Microsoft Azure CLI,11,SSO,Azure Services
+Microsoft Azure KeyVault portal extension,5,SSO,Internal Applications
+Microsoft Azure PowerShell,1,SSO,Azure Services
+Microsoft Azure SQL,6,SSO,Azure Services
+Microsoft Defender Platform,44,SSO,Internal Applications
+Microsoft Device Registration Client,1,SSO,Azure Services
+Microsoft Edge,168,SSO,Developer Tools
+Microsoft Edge Enterprise New Tab Page,147,SSO,Developer Tools
+Microsoft Exchange Online Protection,3,SSO,Internal Applications
+Microsoft Flow Portal,4,SSO,Internal Applications
+Microsoft Flow Service,2,SSO,Internal Applications
+Microsoft Forms,11,SSO,Microsoft Core Services
+Microsoft Forms Web,7,SSO,Internal Applications
+Microsoft Intune Company Portal,67,SSO,Internal Applications
+Microsoft Intune Windows Agent,150,SSO,Internal Applications
+Microsoft Intune portal extension,1,SSO,Internal Applications
+Microsoft Loop App,1,SSO,Microsoft Core Services
+Microsoft Mobile Application Management,13,SSO,Internal Applications
+Microsoft Office,192,SSO,Microsoft Core Services
+Microsoft Office 365 Portal,6,SSO,Internal Applications
+Microsoft OneDrive desktop sync client,1,SSO,Internal Applications
+Microsoft Outlook,79,SSO,Microsoft Core Services
+Microsoft Places for Web,1,SSO,Internal Applications
+Microsoft Planner Client,6,SSO,Microsoft Core Services
+Microsoft Power BI,9,SSO,Microsoft Core Services
+Microsoft Power Query,1,SSO,Internal Applications
+Microsoft Power Query for Excel,3,SSO,Microsoft Core Services
+Microsoft Remote Desktop Client,1,SSO,Internal Applications
+Microsoft Teams,306,SSO,Microsoft Core Services
+Microsoft Teams AuthSvc,27,SSO,Internal Applications
+Microsoft Teams Chat Aggregator,78,SSO,Internal Applications
+Microsoft Teams Copilot Bot,1,SSO,Internal Applications
+Microsoft Teams Graph Service,59,SSO,Internal Applications
+Microsoft Teams Retail Service,1,SSO,Internal Applications
+Microsoft Teams Services,237,SSO,Internal Applications
+Microsoft Teams Shifts,3,SSO,Internal Applications
+Microsoft Teams Web Client,9,SSO,Microsoft Core Services
+Microsoft Teams-T4L,1,SSO,Internal Applications
+Microsoft Threat Protection,3,SSO,Internal Applications
+Microsoft To-Do client,2,SSO,Internal Applications
+Microsoft Viva Insights,2,SSO,Internal Applications
+Microsoft Whiteboard Services,25,SSO,Internal Applications
+Microsoft.Azure.ActiveDirectoryIUX,1,SSO,Internal Applications
+Microsoft_AAD_ERM,4,SSO,Internal Applications
+Microsoft_AAD_RegisteredApps,4,SSO,Internal Applications
+Microsoft_AAD_UsersAndTenants,6,SSO,Internal Applications
+Microsoft_Azure_ActivityLog,1,SSO,Internal Applications
+Microsoft_Azure_AzConfig,1,SSO,Internal Applications
+Microsoft_Azure_Billing,2,SSO,Internal Applications
+Microsoft_Azure_ELMAdmin,1,SSO,Internal Applications
+Microsoft_Azure_Monitoring,5,SSO,Internal Applications
+Microsoft_Azure_Monitoring_Alerts,1,SSO,Internal Applications
+Microsoft_Azure_PIMCommon,6,SSO,Internal Applications
+Microsoft_Azure_Storage,1,SSO,Internal Applications
+Microsoft_Azure_Support,2,SSO,Internal Applications
+Microsoft_Azure_SupportPortalExtension,3,SSO,Internal Applications
+Microsoft_OperationsManagementSuite_Workspace,4,SSO,Azure Services
+My Apps,79,SSO,Microsoft Core Services
+My Profile,4,SSO,Microsoft Core Services
+My Signins,1,SSO,Microsoft Core Services
+Netsuite,1,"Email, SSO",Other SaaS / Business Apps
+NucleusDesktop,1,SSO,Internal Applications
+ODSPTaigerService,67,SSO,Internal Applications
+Office 365 Exchange Online,116,SSO,Microsoft Core Services
+Office 365 Search Service,149,SSO,Internal Applications
+Office 365 SharePoint Online,143,SSO,Microsoft Core Services
+Office Online Core,77,SSO,Microsoft Core Services
+Office Online Service,82,SSO,Internal Applications
+Office Python Service MSA and AAD,21,SSO,Internal Applications
+Office365 Shell WCSS-Client,117,SSO,Microsoft Core Services
+Office365 Shell WCSS-Server,78,SSO,Internal Applications
+OfficeAIAppChatCopilot,13,SSO,Internal Applications
+OfficeHome,28,SSO,Microsoft Core Services
+OfficeServicesManager,19,SSO,Internal Applications
+Olympus,103,SSO,Internal Applications
+One Outlook Web,35,SSO,Microsoft Core Services
+OneDrive,10,SSO,Internal Applications
+OneDrive SyncEngine,172,SSO,Internal Applications
+OneDrive iOS App,4,SSO,Internal Applications
+Orbus Solutions Hub,11,SSO,Internal Applications
+OrbusInfinity,48,SSO,Internal Applications
+OrbusInfinity - Development,33,SSO,Internal Applications
+OrbusInfinity Connector,11,SSO,Internal Applications
+OrbusInfinity Flow,7,SSO,Internal Applications
+OrbusInfinity Flow Connector,53,SSO,Internal Applications
+OrbusInfinity Flow Connector (Development),10,SSO,Internal Applications
+OrbusInfinity Power Automate Connector,5,SSO,Internal Applications
+Outlook Mobile,131,SSO,Microsoft Core Services
+PaintCocreator,3,SSO,Internal Applications
+Phish Alert Button (EU) (N),14,SSO,Internal Applications
+Portfolios,3,SSO,Internal Applications
+Power Automate AAD App for Teams connector,14,SSO,Developer Tools
+Power Automate AI Flows Web,1,SSO,Internal Applications
+Power Automate Desktop For Windows,1,SSO,Internal Applications
+Power BI Data Refresh,3,SSO,Internal Applications
+Power BI Desktop,6,SSO,Microsoft Core Services
+Power BI Service,25,SSO,Internal Applications
+Power Platform Admin Center,1,SSO,Developer Tools
+Power Platform Insights and Recommendations Prod,1,SSO,Internal Applications
+Power Platform Policy Services CM - PROD,1,SSO,Internal Applications
+Power Policy CM - PROD,1,SSO,Internal Applications
+PowerPlatform-LoopConnector,1,SSO,Internal Applications
+PowerPlatform-excelonlinebusiness-Connector,5,SSO,Developer Tools
+PowerPlatform-powerbi-Connector,2,SSO,Internal Applications
+PowerPlatform-vsts-Connector,1,SSO,Internal Applications
+Powerbi,1,Email,Collaboration & Productivity (SaaS)
+Prismatic Authorisation,1,SSO,Internal Applications
+Prismatic Portal,1,SSO,Other SaaS / Business Apps
+Prismatic Teams,9,SSO,Internal Applications
+ProjectWorkManagement,10,SSO,Other SaaS / Business Apps
+Quickbooks,1,Email,Collaboration & Productivity (SaaS)
+Request Approvals Read Platform,1,SSO,Internal Applications
+Robin ( + Service Accounts),1,SSO,Internal Applications
+Sales Copilot Public App - Prod,1,SSO,Internal Applications
+SalesInsightsWebApp,4,SSO,Internal Applications
+SalesLoft,27,SSO,Internal Applications
+Salesforce,1,Email,Other SaaS / Business Apps
+Salesforce Inbox,12,SSO,Internal Applications
+Salesforce for Teams Video,9,SSO,Internal Applications
+Salesloft - Teams Integration for Conversations,4,SSO,Internal Applications
+SalsCopilot,4,SSO,Internal Applications
+Security Copilot API,3,SSO,Internal Applications
+SharePoint Android,3,SSO,Internal Applications
+SharePoint Online Web Client Extensibility,105,SSO,Internal Applications
+Signup,28,SSO,Internal Applications
+Signup Client,1,SSO,Internal Applications
+Skype Presence Service,39,SSO,Internal Applications
+Skype for Business,2,SSO,Internal Applications
+Sticky Notes Client,9,SSO,Internal Applications
+Teams Approvals,2,SSO,Internal Applications
+Teams CMD Services Artifacts,43,SSO,Internal Applications
+Teams Meeting Intelligence Service - Attendance Report,7,SSO,Internal Applications
+Teams Suggestions Service,3,SSO,Internal Applications
+Test PowerAutomate Connector App,1,SSO,Developer Tools
+Universal Print,7,SSO,Internal Applications
+Universal Print Native Client,6,SSO,Internal Applications
+Universal Store Native Client,171,SSO,Internal Applications
+Visual Studio,26,SSO,Developer Tools
+Visual Studio - Legacy,2,SSO,Developer Tools
+Visual Studio Code,1,SSO,Developer Tools
+Viva Goals Integrations,1,SSO,Internal Applications
+Websites Extensions,1,SSO,Internal Applications
+WeveEngine,1,SSO,Internal Applications
+Windows 365 Client,2,SSO,Internal Applications
+Windows App - macOS,1,SSO,Internal Applications
+Windows Azure Active Directory,3,SSO,Internal Applications
+Windows Insider Program,12,SSO,Internal Applications
+Windows Search,102,SSO,Internal Applications
+Windows Shell,117,SSO,Internal Applications
+Windows Sign In,154,SSO,Security & Identity
+Windows Spotlight,130,SSO,Internal Applications
+WindowsDefenderATP,3,SSO,Internal Applications
+WindowsNotepad,13,SSO,Internal Applications
+Workday,1,Email,Collaboration & Productivity (SaaS)
+Xero,1,Email,Collaboration & Productivity (SaaS)
+Yammer Web,2,SSO,Internal Applications
+Zendesk,3,SSO,Other SaaS / Business Apps
+Zoho,7,Email,Collaboration & Productivity (SaaS)
+calendly,1,SSO,Internal Applications
+orbus-iserver-api-CaMo,1,SSO,Internal Applications

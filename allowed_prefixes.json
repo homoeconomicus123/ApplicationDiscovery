@@ -1,0 +1,22 @@
+{
+  "allowed_prefixes": [
+    "noreply",
+    "no-reply",
+    "donotreply",
+    "hello",
+    "info",
+    "support",
+    "contact",
+    "service",
+    "notifications",
+    "mailer",
+    "updates",
+    "alerts",
+    "system",
+    "team",
+    "notice",
+    "connect",
+    "welcome",
+    "billing"
+  ]
+}
